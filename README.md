@@ -1,2 +1,2 @@
 # bellyapi
-development of API
+Sinple recipe API
