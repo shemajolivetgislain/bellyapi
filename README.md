@@ -1,2 +1,2 @@
 # bellyapi
-= Simple recipe API
+- Simple recipe API
